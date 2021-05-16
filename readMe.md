@@ -2,6 +2,7 @@
 
 TEXT!!!
 
-## subheader
+## local developement
+1. Open index.html into browser
 
-Watch it :)
+2. Checkout the Branch
